@@ -1,0 +1,12 @@
+This is the first line of the sample text file.
+It contains several words, some are longer than others.
+We can count the lines and the words in this file.
+This line has a word: analysis.
+Another line for the project, maybe we can find this word later.
+Let's see if we can find specific characters too, like the letter 'e'.
+This file has some text data.
+We can also calculate the average word length.
+Here is a very long word to test the longest word feature: supercalifragilisticexpialidocious.
+And a short word: a.
+The quick brown fox jumps over the lazy dog.
+This is the last line.
