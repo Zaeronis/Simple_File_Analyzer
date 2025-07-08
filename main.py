@@ -36,6 +36,7 @@ while True:
                     shortest_word = word
                     short_word_length = len(word)
             line_length = len(split_line)
+            #Debugging lines
             #print(split_line)
             #print(line_length)
             total_words += line_length
